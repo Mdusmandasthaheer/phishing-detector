@@ -21,4 +21,3 @@
     <li>Output: Detected phishing and security indicators, along with detection results.</li>
 </ul>
 
-<h2>Commands to Execute in Linux</h2>
