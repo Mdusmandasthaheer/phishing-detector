@@ -8,9 +8,9 @@
 </head>
 <body>
 
-<h1>Phishing Detector Tool</h1>
+<h1>About Phishing Detector Tool</h1>
 
-<h2>About the Tool</h2>
+
 <p>This tool analyzes email files for phishing and security indicators using Python. It searches for common keywords and patterns associated with phishing emails and security threats.</p>
 
 <h2>Usage</h2>
